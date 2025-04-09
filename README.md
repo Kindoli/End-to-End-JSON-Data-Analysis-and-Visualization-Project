@@ -60,35 +60,6 @@ It reflects real-world scenarios of handling unstructured data, transforming it,
 
 ---
 
-## ⚙️ Setup Instructions  
-
-1. Clone the Repository  
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-```
-
-2. Create Virtual Environment  
-```bash
-python -m venv venv
-source venv/bin/activate  # For Mac/Linux
-venv\Scripts\activate     # For Windows
-```
-
-3. Install Dependencies  
-```bash
-pip install -r requirements.txt
-```
-
-4. Configure AWS Credentials  
-```bash
-aws configure
-```
-
-5. Run Python Scripts to Process Data  
-
----
-
 ## 📈 PowerBI Visualization  
 
 The PowerBI dashboard showcases:
@@ -99,7 +70,6 @@ The PowerBI dashboard showcases:
 - Geographic distribution of reviews
 - Time-series trends analysis  
 
-> *Download the .pbix file from `powerbi/` folder and connect it to Snowflake or use the processed dataset.*
 
 ---
 
@@ -107,7 +77,7 @@ The PowerBI dashboard showcases:
 
 *Name*: Kindoli Edward 
 *Role*: Data Analyst | Data Engineer | BI Developer  
-*GitHub*: [github.com/Kindoli]([https://github.com/Kindoli])
+*GitHub*: https://github.com/Kindoli
 *LinkedIn*: https://www.linkedin.com/in/kindoli-edward-5058544a/
 
 ---
