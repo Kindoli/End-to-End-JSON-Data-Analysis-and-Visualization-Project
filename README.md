@@ -73,7 +73,7 @@ The PowerBI dashboard showcases:
 
 ---
 
-## ✍️ Author  
+## ✍️ Author 
 
 *Name*: Kindoli Edward 
 *Role*: Data Analyst | Data Engineer | BI Developer  
